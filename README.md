@@ -7,15 +7,15 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/bernardino537">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bernardino537&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardino537&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno c#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Bruno pyton" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Bruno mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />         
+  <img align="center" alt="c#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="pyton" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />         
   
   
           

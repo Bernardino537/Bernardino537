@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com Atendimento back-end
 - 👨‍🎓 Formado em Tecnologia em Gestão da Tecnologia da Informação
-- 🌱 Estudando Lógica de programação e c#
+- 🌱 Estudando Lógica de programação
 - 📫 Contata-me no e-mail: bruno_oliveira223@hotmail.com
 - 😄 Pronouns: ele/dele
 

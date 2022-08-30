@@ -1,6 +1,6 @@
 ### Olá! Me chamo Bruno de Oliveira Bernardino.😄
 
-- 🔭 Trabalho com Atendimento back-end
+- 🔭 Trabalho com Suporte Help-Desk
 - 👨‍🎓 Formado em Tecnologia em Gestão da Tecnologia da Informação
 - 🌱 Estudando Lógica de programação
 - 📫 Contata-me no e-mail: bruno_oliveira223@hotmail.com

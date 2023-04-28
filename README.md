@@ -1,8 +1,8 @@
 ### Olá! Me chamo Bruno de Oliveira Bernardino.😄
 
+- 🌱 Estudando Ciência de Dados pela instituição FIAP
 - 🔭 Trabalho com Suporte Help-Desk
 - 👨‍🎓 Formado em Tecnologia em Gestão da Tecnologia da Informação
-- 🌱 Estudando Ciência de Dados pela instituição FIAP
 - 📫 Contata-me no e-mail: bruno_oliveira223@hotmail.com
 - 😄 Pronouns: ele/dele
 
@@ -22,7 +22,7 @@
   
 </div> 
   <a href="https://instagram.com/bernardino537" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:bruno_oliveira223@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/a>
+ 	<a href = "mailto:bruno_oliveira223@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="[https://www.linkedin.com/in/bernardino537-45875016a](https://www.linkedin.com/in/bruno-de-oliveira-7b1a33b2/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/bernardino537/bernardino537/blob/output/github-contribution-grid-snake.svg)

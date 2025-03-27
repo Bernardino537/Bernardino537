@@ -3,7 +3,7 @@
 - 🌱 Estudando Ciência de Dados pela instituição FIAP
 - 🔭 Trabalho com Governança de dados
 - 👨‍🎓 Formado em Tecnologia em Gestão da Tecnologia da Informação
-- 📫 Contata-me no e-mail: bruno_oliveira223@hotmail.com
+- 📫 Contate-me no e-mail: bruno_oliveira223@hotmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">

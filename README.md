@@ -1,8 +1,6 @@
 ### Olá! Me chamo Bruno de Oliveira Bernardino.😄
 
-- 🌱 Estudando Ciência de Dados pela instituição FIAP
-- 🔭 Trabalho com Governança de dados
-- 👨‍🎓 Formado em Tecnologia em Gestão da Tecnologia da Informação
+- 👨‍🎓 Formado em Ciência de Dados pela instituição e Tecnologia em Gestão da Tecnologia da Informação
 - 📫 Contate-me no e-mail: bruno_oliveira223@hotmail.com
 - 😄 Pronouns: ele/dele
 
